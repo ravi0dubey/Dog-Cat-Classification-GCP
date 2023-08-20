@@ -32,20 +32,26 @@
 
 ## 4. Download gcloud sdk : 
      - https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
-## 5. run command "gcloud init" in installed sdk terminal
-	- configure with your current project settings
+     
+## 5. Install SDK terminal
+	- run command "gcloud init" in installed sdk
+        - configure with your current project settings
+	
    ## a. Pick configuration to use:
         [1] Re-initialize this configuration [default] with new settings
         [2] Create a new configuratiom
 	[3] switch to and re-initialize existing configuration
-        Please enter your numeric choice:  2
+        
+	Please enter your numeric choice:  2
+	
    ## b. Enter configuration name:
    	Enter value "dog-cat-project"
+    
    ## c. Choose the account you would like to use to perform operations for this configuration:
        [1] ravi0dubey@gmail.com
        [2] Log in with a new account
        
-           Please enter your numeric choice:  1
+        Please enter your numeric choice:  1
 	   
    ## d. Pick cloud project to use:
        [1] annular-splice-382510
@@ -73,8 +79,8 @@
 ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/ab6b2df4-b9a3-4a62-91be-c6d2d9a4c819)
 
 
-## 8. To view your application in the web browser run command in the powershell:
-      - "gcloud app browse"
+## 8. To view your application in the web browser:
+    -  run command  "gcloud app browse" in the powershell
 ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/02ea7844-de75-4c7a-94b2-0704e358ef18)
 
 
