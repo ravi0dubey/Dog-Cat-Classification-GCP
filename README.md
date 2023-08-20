@@ -72,9 +72,12 @@
 ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/ab6b2df4-b9a3-4a62-91be-c6d2d9a4c819)
 
 
-## 8. To view your application in the web browser run:
-      $ gcloud app browse
+## 8. To view your application in the web browser run command in the powershell:
+      - "gcloud app browse"
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/02ea7844-de75-4c7a-94b2-0704e358ef18)
+      - click on the URL to do the Prediction
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/c5385a36-e8b6-446a-b0f8-db90b676d311)
 
-	
+  
 	
 	
