@@ -24,7 +24,8 @@
 
 ## 2. Create a new project in GCP
    ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/3b9fe61e-c0a8-43c6-a76b-4f89ab75d6b1)
-   a. Select the newly created project
+   
+   -Select the newly created project
 
 ## 3. Use app engine service
    ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/a7080f9f-c285-48c9-9358-9b40e9cccc2a)
