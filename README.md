@@ -48,13 +48,17 @@
 	   
    ## d. Pick cloud project to use:
        [1] annular-splice-382510
-       [2] dog-cat-project-382511
+       [2] dog-cat-project-396516
        [3] youtube-analysis-ravi
        [4] Enter a project ID
        [5] Create a new project
        
        Please enter numeric choice or text value (must exactly match list item):  2
-       Your current project has been set to: [dog-cat-project-382511].
+       Your current project has been set to: [dog-cat-project-396516].
+
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/e1f84ff1-2b51-4761-879b-9cabdfe8e5d2)
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/a8540e2c-bbc7-41a5-9e77-a41b69d10053)
+
 
 ## 6. In the command prompt or gitbash terminal 
       Ensure we are in correct directory where our project reside
