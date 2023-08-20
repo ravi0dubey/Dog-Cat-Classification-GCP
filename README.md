@@ -56,8 +56,8 @@
        Please enter numeric choice or text value (must exactly match list item):  2
        Your current project has been set to: [dog-cat-project-396516].
 
-      ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/e1f84ff1-2b51-4761-879b-9cabdfe8e5d2)
-      ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/a8540e2c-bbc7-41a5-9e77-a41b69d10053)
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/e1f84ff1-2b51-4761-879b-9cabdfe8e5d2)
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/a8540e2c-bbc7-41a5-9e77-a41b69d10053)
 
 
 ## 6. In the command prompt or gitbash terminal 
@@ -66,7 +66,7 @@
 ## 7. run command in command prompt or gitbash terminal "gcloud app deploy"
      - select region 18 for us-east-1
      - Do you want to continue - 'Y'
-     ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/f078a49d-32b4-4fdc-b076-ff6a64f30cef)
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/f078a49d-32b4-4fdc-b076-ff6a64f30cef)
 
 ## 8. To view your application in the web browser run:
       $ gcloud app browse
