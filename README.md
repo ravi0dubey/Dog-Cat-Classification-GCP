@@ -36,14 +36,17 @@
    ## a. Pick configuration to use:
         [1] Re-initialize this configuration [default] with new settings
         [2] Create a new configuratiom
+	[3] switch to and re-initialize existing configuration
         Please enter your numeric choice:  2
-	
-   ## b. Choose the account you would like to use to perform operations for this configuration:
+   ## b. Enter configuration name:
+   	Enter value "dog-cat-project"
+   ## c. Choose the account you would like to use to perform operations for this configuration:
        [1] ravi0dubey@gmail.com
        [2] Log in with a new account
+       
            Please enter your numeric choice:  1
 	   
-   ## c. Pick cloud project to use:
+   ## d. Pick cloud project to use:
        [1] annular-splice-382510
        [2] dog-cat-project-382511
        [3] youtube-analysis-ravi
