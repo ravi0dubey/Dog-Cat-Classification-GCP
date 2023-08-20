@@ -22,14 +22,15 @@
 
 ## 1. Login to gcp console.
 
-## 2. Download gcloud sdk : 
+## 2. Create a new project in GCP
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/3b9fe61e-c0a8-43c6-a76b-4f89ab75d6b1)
+   a. Select the newly created project
+
+## 3. Use app engine service
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/a7080f9f-c285-48c9-9358-9b40e9cccc2a)
+
+## 4. Download gcloud sdk : 
      - https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
-
-## 3. Create a new project in GCP
-      select the newly created project
-
-## 4. Use app engine service
-
 ## 5. run command "gcloud init" in installed sdk terminal
 	- configure with your current project settings
    ## a. Pick configuration to use:
