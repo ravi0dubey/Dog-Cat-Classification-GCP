@@ -68,6 +68,10 @@
      - Do you want to continue - 'Y'
 ![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/f078a49d-32b4-4fdc-b076-ff6a64f30cef)
 
+     - post deployment
+![image](https://github.com/ravi0dubey/Dog-Cat-Classification-GCP/assets/38419795/ab6b2df4-b9a3-4a62-91be-c6d2d9a4c819)
+
+
 ## 8. To view your application in the web browser run:
       $ gcloud app browse
 
